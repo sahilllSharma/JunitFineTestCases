@@ -6,4 +6,9 @@ public class TestUtil {
 	{
 		return firstnumber+secondnumber;
 	}
+	
+	public int multiply(int firstnumber, int secondnumber )
+	{
+		return firstnumber*secondnumber;
+	}
 }
